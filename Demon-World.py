@@ -190,7 +190,7 @@ ha = current.day
 
 today = date.today()
 
-os.system('xdg-open https://facebook.com/groups/termuxteambd/')
+os.system('xdg-open https://www.facebook.com/arafatmahin310')
 
 logo = ("""
 
